@@ -124,6 +124,13 @@ There’s no configuration file required. However, you can customize the script 
 
 ---
 
+## 📋TO-DO
+
+- Outsourced configuration
+- Memory use optimization
+
+---
+
 ## 🔐 Authentication
 
 The script saves your WhatsApp Web session in the `.wwebjs_auth/` directory after the first successful login. You won’t need to scan the QR code again unless this folder is deleted.
