@@ -1,0 +1,13 @@
+{
+  "name": "whatsapp-archive-bot",
+  "version": "1.0.0",
+  "description": "A bot that automatically archives the chats read on WhatsApp",
+  "main": "whatsapp-archive-bot.js",
+  "scripts": {
+    "start": "node whatsapp-archive-bot.js"
+  },
+  "dependencies": {
+    "whatsapp-web.js": "^1.18.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
